@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+			<title>
+				Grizzly Map
+			</title>
+	</head>
+
+	<body style="background-color: black">
+		<header>
+			<em>Grizzly Map<em>
+		</header>
+		<br><br><br><center><button onClick="goArea()"><img src="img/areamap.png" width="140" height="140"></button></center>
+		<br><br><br><center><button onClick="goCampus()"><img src="img/campusmapbutton.png" width="140" height="140"></button></center>
+		<br><br><br><center><button onClick="goAbout()"><img src="img/aboutme.png" width="140" height="140"></button></center>
+	</body>
+	
+	<script>
+	function goArea()
+	{
+		var myWindow = window.open("areamap.html", "_self");
+	}
+	function goCampus()
+	{
+		var myWindow = window.open("campusmap.html", "_self");
+	}
+	function goAbout()
+	{
+		var myWindow = window.open("aboutme.html", "_self");
+	}
+	</script>
+
+</html>

@@ -36,10 +36,10 @@ C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\
 C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\cordova.js \
 C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\cordova_plugins.js \
 C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\css \
+C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\homescreen.html \
 C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\img \
 C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\index.html \
 C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\js \
-C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\splashscreen.html \
 C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\stylesheet.css \
 C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\css\stylesheet.css \
 C:\Users\ApThAgReAt\Documents\Cordova\cordova-apps\grizzlymap\platforms\android\assets\www\img\aboutme.png \
