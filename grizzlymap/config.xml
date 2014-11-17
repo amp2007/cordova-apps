@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.cordova.hellocordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>HelloCordova</name>
+    <name>Grizzly Map</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
@@ -9,4 +9,9 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+	<preference name="Orientation" value="portrait" />
+	<icon src="www/img/ggc.jpg" platform="android" density="ldpi" />
+<icon src="www/img/ggc.jpg" platform="android" density="mdpi" />
+<icon src="www/img/ggc.jpg" platform="android" density="hdpi" />
+<icon src="www/img/ggc.jpg" platform="android" density="xhdpi" />
 </widget>

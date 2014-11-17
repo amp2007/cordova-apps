@@ -9,7 +9,7 @@
 		window.onload=timeout;
 		function timeout()
 		{
-			window.setTimeout("redirect()",4000)
+			window.setTimeout("redirect()",5000)
 		}
 		function redirect()
 		{
@@ -33,5 +33,22 @@
 				<input type="button" value="Home" onClick="redirect()" /> </p>
 			</form>
 		</body>
-
+	<script>
+	function onDeviceReady()
+	{
+    document.addEventListener("backbutton", function(e)
+	{
+       if(document.getElementById('#homepage'))
+	   {
+           e.preventDefault();
+           navigator.app.exitApp();
+       }
+       else 
+	   {	
+		   navigator.app.backHistory()
+	   }	
+		}	
+	, false);
+	}
+	</script>
 </html>
